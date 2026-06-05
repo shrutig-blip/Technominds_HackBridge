@@ -126,9 +126,9 @@ Compares technologies, frameworks, and tools to recommend the best fit for proje
 
 💡 **Prototype & Presentation**
 
-Live Prototype:
+Live Prototype: https://ai.studio/apps/300b2a8f-3fe6-4061-bb06-91d9f113a4be
 
-Presentation:
+Presentation: https://canva.link/4jqe6pxol7g3ck0
 
 📸 **Screenshots**
 <img width="1853" height="965" alt="Screenshot 2026-06-05 212729" src="https://github.com/user-attachments/assets/14a59df6-e989-4c1e-9be7-57c5716e2005" />
@@ -146,6 +146,8 @@ Presentation:
 <img width="1701" height="942" alt="Screenshot 2026-06-05 213034" src="https://github.com/user-attachments/assets/1d2dac59-6bcb-491b-b18e-16d54d394eae" />
 
 <img width="1833" height="1002" alt="Screenshot 2026-06-05 213125" src="https://github.com/user-attachments/assets/500fb5a7-2966-463c-95e0-ab8656055f29" />
+
+
 
 🌍 **Impact**
 
