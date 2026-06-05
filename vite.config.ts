@@ -6,6 +6,8 @@ import {defineConfig, loadEnv} from 'vite';
 export default defineConfig(({mode}) => {
   const env = loadEnv(mode, '.', '');
   return {
+    base: '/Technominds_HackBridge/',
+
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
