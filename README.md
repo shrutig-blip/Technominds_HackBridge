@@ -130,6 +130,8 @@ Live Prototype: https://ai.studio/apps/300b2a8f-3fe6-4061-bb06-91d9f113a4be
 
 Presentation: https://canva.link/4jqe6pxol7g3ck0
 
+Demo video: https://drive.google.com/file/d/11SwWdQwpmgXyJEWOkXv66XDaAXn9jXvY/view?usp=drive_link 
+
 📸 **Screenshots**
 <img width="1853" height="965" alt="Screenshot 2026-06-05 212729" src="https://github.com/user-attachments/assets/14a59df6-e989-4c1e-9be7-57c5716e2005" />
 
