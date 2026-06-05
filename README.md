@@ -3,7 +3,7 @@ The bridge that lets every hacker speak, code, and create on the same wavelength
 
 HackBridge is an AI-powered collaboration platform designed to eliminate communication gaps in hackathons and team projects. It transforms chaotic discussions into structured decisions, actionable tasks, adaptive learning support, and project documentation—helping teams spend less time coordinating and more time building.
 
-🚨 Problem
+🚨 **Problem**
 
 In fast-paced hackathons and collaborative projects, teams often lose valuable time due to:
 
@@ -21,33 +21,35 @@ In fast-paced hackathons and collaborative projects, teams often lose valuable t
 
 HackBridge solves these challenges by acting as an intelligent collaboration assistant.
 
-✨ Features
-🧠 Hackathon Chaos
+✨ **Features**
 
-Converts lengthy discussions into structured decisions, action items, and key takeaways.
-
-📋 Smart Task Splitter
-
-Breaks complex tasks into manageable subtasks and recommends assignments based on team skills and workload.
-
-🎓 Skill-Adaptive Explainer
-
-Explains the same concept at beginner, intermediate, or expert level with multilingual support.
-
-📝 Meeting-to-Docs Generator
-
-Automatically converts conversations into README files, reports, meeting notes, and presentation-ready content.
-
-⚙️ Tech Stack Comparator
-
-Compares technologies, frameworks, and tools to recommend the best fit for project requirements.
-
-🤖 Smart Chat Mode
+🤖 **Smart Chat Mode**
 
 A permission-based AI collaboration layer that monitors conversations and provides contextual assistance only when users explicitly allow it.
 
+🧠 **Hackathon Chaos**
 
-🏗️ How It Works
+Converts lengthy discussions into structured decisions, action items, and key takeaways.
+
+📋 **Smart Task Splitter**
+
+Breaks complex tasks into manageable subtasks and recommends assignments based on team skills and workload.
+
+🎓 **Skill-Adaptive Explainer**
+
+Explains the same concept at beginner, intermediate, or expert level with multilingual support.
+
+📝 **Meeting-to-Docs Generator**
+
+Automatically converts conversations into README files, reports, meeting notes, and presentation-ready content.
+
+⚙️ **Tech Stack Comparator**
+
+Compares technologies, frameworks, and tools to recommend the best fit for project requirements.
+
+
+
+🏗️ **How It Works**
 
 -Team members communicate naturally in chat.
 
@@ -62,7 +64,7 @@ A permission-based AI collaboration layer that monitors conversations and provid
 -New team members can instantly understand project progress.
 
 
-🧠 AI Technologies Used
+🧠 **AI Technologies Used**
 
 -Large Language Models (LLMs)
 
@@ -79,7 +81,7 @@ A permission-based AI collaboration layer that monitors conversations and provid
 -Task Extraction & Classification
 
 
-🎯 Use Cases
+🎯 **Use Cases**
 
 -Hackathons
 
@@ -94,7 +96,7 @@ A permission-based AI collaboration layer that monitors conversations and provid
 -Technical Workshops & Bootcamps
 
 
-🚀 Future Scope
+🚀 **Future Scope**
 
 -Voice-to-Text Collaboration
 
@@ -108,23 +110,35 @@ A permission-based AI collaboration layer that monitors conversations and provid
 
 -Advanced Project Tracking
 
-💻 Tech Stack
+💻 **Tech Stack**
+
 -Frontend: React.js
+
 -Backend: Node.js / Express
+
 -Database: MongoDB
+
 -AI: OpenAI / Gemini APIs
+
 -Authentication: Firebase / JWT
+
 -Deployment: Cloud-Based Infrastructure
-🌍 Impact
+
+
+🌍 **Impact**
 
 HackBridge helps teams communicate effectively, make faster decisions, reduce confusion, and improve project completion rates.
 
 More ideas implemented. More voices heard. Better collaboration.
 
-👥 Team Technominds
+👥 **Team Technominds**
+
 Shruti Gupta
+
 Shreya Gupta
+
 Shivangi Gupta
+
 Shruti Kumari
 
-"Built to bridge the gap between discussion and execution."
+**"Built to bridge the gap between discussion and execution."**
