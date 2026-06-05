@@ -7,12 +7,12 @@ HackBridge is an AI-powered collaboration platform designed to eliminate communi
 
 In fast-paced hackathons and collaborative projects, teams often lose valuable time due to:
 
-Miscommunication between team members
-Different skill levels within the same team
-Language barriers during discussions
-Repeated conversations due to missing documentation
-Late joiners struggling to catch up with progress
-Unstructured decision-making
+-Miscommunication between team members
+-Different skill levels within the same team
+-Language barriers during discussions
+-Repeated conversations due to missing documentation
+-Late joiners struggling to catch up with progress
+-Unstructured decision-making
 
 HackBridge solves these challenges by acting as an intelligent collaboration assistant.
 
@@ -42,12 +42,19 @@ Compares technologies, frameworks, and tools to recommend the best fit for proje
 A permission-based AI collaboration layer that monitors conversations and provides contextual assistance only when users explicitly allow it.
 
 🏗️ How It Works
-Team members communicate naturally in chat.
-Smart Chat Mode analyzes conversations (with user consent).
-AI agents extract decisions, tasks, and important context.
-Explanations are adapted based on individual skill levels.
-Documentation is generated automatically.
-New team members can instantly understand project progress.
+
+-Team members communicate naturally in chat.
+
+-Smart Chat Mode analyzes conversations (with user consent).
+
+-AI agents extract decisions, tasks, and important context.
+
+-Explanations are adapted based on individual skill levels.
+
+-Documentation is generated automatically.
+
+-New team members can instantly understand project progress.
+
 🧠 AI Technologies Used
 Large Language Models (LLMs)
 Retrieval-Augmented Generation (RAG)
